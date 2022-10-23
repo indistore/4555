@@ -1,7 +1,4 @@
-#EXTM3U
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://rr2.dens.tv/s/s07/index.m3u8
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
 #EXTINF:-1 group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 group-title="INDONESIA",BERITA SATU WORLD
