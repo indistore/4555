@@ -1,8 +1,5 @@
 
-#EXTINF:-1 group-title="INDONESIA",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="INDONESIA",BERITA SATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
 #EXTINF:-1 group-title="INDONESIA",CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 group-title="INDONESIA",CNBC
