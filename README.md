@@ -243,3 +243,25 @@ http://axcestv.vip:8080/live/freeview/axcestv/789.ts
 #EXTINF:-1 group-title="SPORT",ASTRO SUPERSPORT 3
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
 #EXTINF:-1 group-title="SPORT",ASTRO SUPERSPORT 3 Backup
+http://axcestv.vip:8080/live/freeview/axcestv/790.ts
+#EXTINF:-1 group-title="SPORT",ASTRO SUPERSPORT 4
+http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+ 
+#EXTINF:-1 group-title="CCTV JOGJA",Malioboro_1_Selatan_Teteg
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",Malioboro_6_Mall_Utara
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",Malioboro_30_Pasar_Beringharjo
+ttps://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",Malioboro_24_Simpang_Reksobayan
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",NolKm_BNI
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_BNI.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",ATCS_kmnol
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",ATCS_gondomanan
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",ATCS_Parkiran_Ngabean
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Parkiran_Ngabean.stream/playlist.m3u8
+#EXTINF:-1 group-title="CCTV JOGJA",ATCS_Simpang_Galeria_TimurSelatan
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Galeria_TimurSelatan.stream/playlist.m3u8
