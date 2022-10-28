@@ -18,7 +18,7 @@ https://stream-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
  
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://static.epg.best/id/Indosiar.id.png",INDOSIAR
-http://rr2.dens.tv/s/s04/index.m3u8
+
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
