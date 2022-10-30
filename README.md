@@ -55,9 +55,31 @@
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="Lokal",RCTI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+http://203.77.246.50:5000/udp/239.1.3.80:5000
 
 
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Lokal ", RCTI 3
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
+
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal", ANTV 2
+http://iptvid.my.id/hmm/antv.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Lokal", INDOSIAR 2
+http://iptvid.my.id/hmm/indosiar.m3u8
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Lokal",GTV 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
+EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="Lokal",SCTV 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Lokal", INDOSIAR 2
+http://iptvid.my.id/hmm/indosiar.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Lokal", TRANS TV 2
+http://iptvid.my.id/hmm/transtv.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Lokal", TRANS7 2
+http://iptvid.my.id/hmm/trans7.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
