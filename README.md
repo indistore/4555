@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
  
-
+id,playlist_id,name,custom_name,url,logo,group,tvg_id,tvg_name,tvg_shift,tvg_ch_no,drm_scheme,drm_license_url,server_timezone,catchup_type,catchup_days,catchup_source,is_vod,position_in_playlist,is_visible,is_blocked,is_favorite,last_turn_on_time,last_group_type_id,last_group_playlist_id,watch_time,audio_track_selection,closed_captions_selection,display_mode,audio_offset,user_tvg_id,user_tvg_source_type,user_tvg_time_offset,blocked_tvg_ids,audio_decoder_priority,video_decoder_priority,use_external_player
 ===================================LOKAL==========================================================
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="Lokal",A_INFO INDISTORE
@@ -9,9 +9,12 @@ https://www.googleapis.com/drive/v3/files/137LkFa0qjJhy_bprTxsNewDECHzYsB-r?alt=
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/punyadukun
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Lokal",NET TV INDISTORE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Lokal",NET TV IND
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/net.mpd
  
+
+1006,4,'NET',,'https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/net.mpd','https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png','Lokal','NET.id','',0,-1,'com.widevine.alpha','https://dukun.masuk.id/drm/punyadukun',,,,,0,81,1,0,0,0,0,0,0,,,1,,'',,,'',,,
+
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
