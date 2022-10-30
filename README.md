@@ -1,7 +1,70 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
  
- 
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U x-tvg-url="http://rtm.samsam123.tk/rtmklik.xml" url-tvg="http://rtm.samsam123.tk/rtmklik.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-en/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-en/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/th/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/th/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-es/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us-es/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml"
+
+######################################################################TV CHANNELS#############################################################################################################################################
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+
+
+
+
+
 ===================================LOKAL==========================================================
+
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="Lokal",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="Lokal",searching UPDATE
