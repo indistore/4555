@@ -1,6 +1,48 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
  
 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U x-tvg-url="http://rtm.samsam123.tk/rtmklik.xml" url-tvg="http://rtm.samsam123.tk/rtmklik.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-en/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-en/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/fr/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/th/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/th/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-es/beinsports.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/us-es/beinsports.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml"
+
+
 
 
 
@@ -20,7 +62,8 @@ https://www.googleapis.com/drive/v3/files/137LkFa0qjJhy_bprTxsNewDECHzYsB-r?alt=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Lokal",NET TV INDISTORE
-http://rr2.dens.tv/s/s08/index.m3u8
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+ 
  
  
  
@@ -47,7 +90,7 @@ https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606
  
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://static.epg.best/id/SCTV.id.png",SCTV
-http://rr2.dens.tv/s/s03/index.m3u8
+ 
  
  
  
@@ -84,8 +127,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
  
  
-#EXTINF:-1 group-title="Lokal",O Channel
-http://rr3.dens.tv/s/s73/index2.m3u8
+ 
  
  
  
@@ -99,7 +141,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="TransTV.Id" tvg-logo="https://cdn.ksa.my.id/transtv.png" group-title="Lokal",Trans TV
-http://rr2.dens.tv/s/s05/index.m3u8
+https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -117,7 +159,7 @@ https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735" group-title="Lokal",Trans 7 HD
-http://rr.dens.tv/h/h11/index.m3u8
+http://tvn.x10.mx/vidio/master-28.m3u8
  
  
  
@@ -137,7 +179,7 @@ http://rr.dens.tv/h/h11/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Lokal",ANTV
-http://rr2.dens.tv/s/s07/index.m3u8
+https://stream-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -155,7 +197,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/NTIQcW0.png?v=1.0.0.1" group-title="Lokal",Metro TV HD
-http://rr.dens.tv/h/h12/index.m3u8
+https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -165,7 +207,7 @@ http://rr.dens.tv/h/h12/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/aJhpmgf.png?v=1.1.1.1" group-title="Lokal",Kompas TV
-http://rr2.dens.tv/s/s104/index.m3u8
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -186,7 +228,7 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/KawOb6q.png?v=1.0.0.1" group-title="Lokal",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -371,7 +413,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movies",HITS
-http://rr1.dens.tv/h/h37/index.m3u8
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -399,12 +441,12 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png" group-title="Movies",KIX
-http://rr1.dens.tv/h/h07/index.m3u8
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/390?cb=20170606050150" group-title="Movies",Thrill
-http://rr2.dens.tv/s/s34/index.m3u8
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -414,12 +456,12 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/LBTEumd.png?v=1.0.0.1" group-title="Movies",Cinema World
-http://rr1.dens.tv/h/h04/index.m3u8
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies",Celestial Movies
-http://rr2.dens.tv/s/s31/index.m3u8
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -429,7 +471,7 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies",Celestial Classic Movies
-http://rr1.dens.tv/h/h14/index.m3u8
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -443,8 +485,8 @@ http://rr1.dens.tv/h/h14/index.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Movies" tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png1",SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png",Star Chinese Movies South East Asia
+ 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -500,17 +542,13 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
  
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/Dk3gKrq/SCM.png1" group-title="Movies",My Cinema
-http://rr.dens.tv/h/h99/index.m3u8
  
  
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/Dk3gKrq/SCM1.png" group-title="Movies",My Cinema ASIA
-http://rr.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/Dk3gKrq/SCM1.png" group-title="Movies",My Cinema EUROPA
-http://rr.dens.tv/h/h18/index.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-name="My Cinema Asia" tvg-logo="https://i.ibb.co/Dk3gKrq/SCM1.png" group-title="Movies",MY FAMILY CHANNEL
-http://rr.dens.tv/h/h194/index.m3u8
+ 
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/Dk3gKrq/SCM1.png" group-title="Movies",My Cinema
+ 
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-name="My Cinema Asia" tvg-logo="https://i.ibb.co/Dk3gKrq/SCM1.png" group-title="Movies",My Cinema Asia
+ 
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -563,7 +601,7 @@ https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="FightSports.Id" tvg-logo="https://cdn.ksa.my.id/fightsport.png" group-title="Sports",Fight Sports
-http://rr1.dens.tv/h/h05/index.m3u8
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -586,11 +624,6 @@ https://liveanevia.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mp
 https://bit.ly/nbatvusa?/index.m3u8
  
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV1.svg.png" group-title="Sports",MOTORVISION
-http://rr.dens.tv/h/h09/index.m3u8
-  
- 
- 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/d740c649/a327.png" group-title="Sports",Soccer Channel
@@ -600,9 +633,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="SPORTS UPDATE",Golf Channel
-http://rr1.dens.tv/h/h10/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="SPORTS UPDATE",eGG Network
  
@@ -640,10 +671,9 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
  
  
 #EXTINF:-1 tvg-id="1AGEC4" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/jLJ3CYv/ANIPLUS.png" group-title="Kids",Aniplus
-http://rr1.dens.tv/h/h02/index.m3u8
-
+ 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="My Kidz" tvg-logo="https://i.ibb.co/T1BcfnM/MYKIDZ.png" group-title="Kids",My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
+ 
  
  
  
@@ -785,23 +815,16 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/N0TKqJd.png?v=1.0.0.1" group-title="DRAKOR INDISTORE" tvg-id="tvN Movies HD" tvg-name="tvN Movies HD", TVN Movies
-http://rr1.dens.tv/h/h21/index.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/N0TKqJd.png?v=1.0.0.1" group-title="DRAKOR INDISTORE" tvg-id="tvN Movies HD" tvg-name="tvN Movies HD", TVN Movies
-http://rr1.dens.tv/h/h20/index.m3u8
-
-
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2WAm2W4.png?v=1.0.0.1" group-title="DRAKOR INDISTORE" tvg-id="ONE HD" tvg-name="ONE HD", ONE
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
  
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QVj6I9k.png?v=1.0.0.1" group-title="DRAKOR INDISTORE" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus
-http://rr.dens.tv/h/h08/index.m3u8
-
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd
+ 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="DRAKOR INDISTORE" tvg-id="KBS World HD" tvg-name="KBS World HD", KBS World
  
  
@@ -1133,5 +1156,4 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="Music",Music Channel
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
- 
 
