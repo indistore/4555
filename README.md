@@ -1,12 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
  
  
- 
- 
- 
- 
- 
- 
+
  
  
  
