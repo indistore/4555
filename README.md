@@ -1,6 +1,14 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
  
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 ===================================LOKAL==========================================================
  
@@ -22,9 +30,7 @@ https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://static.epg.best/id/Indosiar.id.png",INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-
-
-
+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="Lokal",INDOSIAR HD
