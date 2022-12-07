@@ -18,7 +18,8 @@
 http://tvlive.my.id:25461/live/agus/agus/14.m3u8
 
 
-
+#EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="LIVE EVENT",LIGA 1 BRI
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 
 
