@@ -936,7 +936,7 @@ https://av-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremi
 https:/av-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
  
  
-#EXTINF:-1 tvg-id="1709" tvg-name="AFN" tvg-logo="https://i.ibb.co/JtQ9H1W/AFN.png" group-title="Knowledge",AFN
+
  
  
  
