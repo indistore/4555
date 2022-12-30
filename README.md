@@ -16,6 +16,13 @@
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 
 
+#EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="LIVE EVENT",AFF CUP 1
+https://h-rcti.rctiplus.id/RCTI2022.m3u8|referer=https://video.sindonews.com/
+
+
+
+#EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="LIVE EVENT",LIGA 1 BRI 
+https://d-inews.rctiplus.id/INEWS2022.m3u8|referer=https://video.sindonews.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
