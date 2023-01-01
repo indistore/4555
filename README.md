@@ -36,8 +36,7 @@ https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
  
  
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://static.epg.best/id/Indosiar.id.png",INDOSIAR
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Lokal",INDOSIAR HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
  
 
