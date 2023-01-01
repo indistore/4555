@@ -110,8 +110,8 @@ https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Lokal",0 Channel
-https://sv3.gdplayer.to/playlist/QnAwalBUOExmNmw5L24wY0lHRWJvNGRheWpoaXVUVVQ0cDAyOUpFYnA0Sis3eU0xRXZBQmcvdUFsZlVoS3N4eUtBdTZ4c0dwWUlQMUhsaS9QZ21EdlE9PQ\,\,/master.m3u8?token=eXdnWjFuZ1c1eXFaMW5zeS9pN0pTdDN6VENOcDNtWitCRFpQNmNpakxlSmNBMDNUaTFveUxkQ0VFakNyRmoxY3lOckRkNUNaaGNqL2VOeUdJZ0hySVE9PQ\,\
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Lokal",MOJI
+https://geocities.ws/ariev7xx/moji.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
