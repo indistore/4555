@@ -13,8 +13,7 @@
 ===================================LOKAL==========================================================
 
 #EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="LIVE EVENT",LIGA 1 BRI 
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-
+https://etslive-2-vidio-com.akamaized.net/exp=1674048178~acl=/vp9/9310_stream.mpd!/vp9/9310/*!/vp9/*/9310_stream.mpd!/vp9/*/9310/*~hmac=0a288335bbd4e374e827812801e50ac07fcdc42abfaa8364ea403ce386c471b4/vp9/9310_stream.mpd
 
 #EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="LIVE EVENT",AFF CUP 1
 https://h-rcti.rctiplus.id/RCTI2022.m3u8|referer=https://video.sindonews.com/
