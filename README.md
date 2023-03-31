@@ -38,13 +38,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
  
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Lokal",INDOSIAR HD
-http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
  
  
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Lokal",SCTV HD
-http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
  
  
  
