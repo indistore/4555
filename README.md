@@ -246,6 +246,17 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE3
+https://cdnjkt2.transvision.co.id:1001/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE4
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",HBO NO SUBTITLE 
 http://208.115.225.174:14136 
 
