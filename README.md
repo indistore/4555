@@ -237,23 +237,22 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE
-https://newanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+https://astro.kutubusuk.workers.dev/dash-wv/linear/2304/default_ott.mpd.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE2
-https://anevi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
+#EXTINF:0 tvg-id="HBOFamily.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="Movies",HBO Family
+https://astro.kutubusuk.workers.dev/dash-wv/linear/5053/default_ott.mpd
+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE3
-https://cdnjkt2.transvision.co.id:1001/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-
+#EXTINF:0 tvg-id="HBOHits.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="Movies",HBO Hits
+https://astro.kutubusuk.workers.dev/dash-wv/linear/5055/default_ott.mpd
+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE4
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:0 tvg-id="HBOSignature.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="Movies",HBO Signature
+https://nxanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
