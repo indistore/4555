@@ -63,7 +63,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Lokal",SCTV HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8 
- 
+=
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Lokal",SCTV 
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
  
@@ -1170,7 +1170,7 @@ http://mvtv.tech:25461/dony/abangganteng/978
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="HGTV.Id" tvg-logo="https://cdn.ksa.my.id/hgtv.png" group-title="Knowledge",HGTV
-https://nxanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
  
  
  
