@@ -232,11 +232,26 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
  
  
 ===============================MOVIE======================================
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/2304
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE
+https://astro.kutubusuk.workers.dev/dash-wv/linear/2304/default_ott.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/5055
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO HITS
+https://astro.kutubusuk.workers.dev/dash-wv/linear/5055/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/5053
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO FAMILY
+https://astro.kutubusuk.workers.dev/dash-wv/linear/5053/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO INDISTORE
+#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="Movies",HBO NO SUB INDO
 http://208.115.225.174:14136
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
