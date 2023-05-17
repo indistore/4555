@@ -887,8 +887,14 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
  
  
 ########################################################     news     ########################################################
- 
- 
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j2dmpf3n/20220926-183321.png" group-title="News",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/RytQgdW.png?v=1.0.0.1" group-title="News",IDX
