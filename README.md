@@ -14,8 +14,8 @@
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1"group-title="TAHAP 1", Cinemax 
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1"group-title="TAHAP 2", Cinemax 
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
  
  
  
@@ -23,40 +23,37 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="TAHAP 1",HBO UJI COBA
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="TAHAP 2",HBO UJI COBA
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="TAHAP 1",HBO HITS
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="TAHAP 2",HBO HITS
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="TAHAP 1",HBO FAMILY
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="TAHAP 2",HBO FAMILY
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="TAHAP 1",HBO SIGNATURE
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
- 
- 
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="TAHAP 2",HBO SIGNATURE
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
  
  
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="TAHAP 1",MOHON DI BANTU DENGAN DONASI
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="TAHAP 2",MOHON DI BANTU DENGAN DONASI
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="TAHAP 1",UPDATE 9 JUNI 2023
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="TAHAP 2",UPDATE 9 JUNI 2023
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
 
