@@ -14,7 +14,7 @@
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1"group-title="TAHAP 2", Cinemax 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1"group-title="TAHAP 2", Cinemax 1
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
  
  
@@ -43,16 +43,8 @@ http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="TAHAP 2",HBO SIGNATURE 1
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
  
- 
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1"group-title="TAHAP 2", Cinemax 1
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
- 
- 
+------------------------------------------------------------------------------------------------------------------------------------------------------------ 
  
  
  
