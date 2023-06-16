@@ -758,9 +758,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="Sports",beIN Sports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.licenses4.me
 
  
  
@@ -788,26 +785,16 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
  
  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="LIVE EVENT",MNC SPORT HD
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="LIVE EVENT",MNC SPORT 3 HD
- 
- 
- 
- 
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",MNC Sports
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
- 
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="MNCSports2.Id" tvg-logo="https://cdn.ksa.my.id/mncsports2.png" group-title="Sports",MNC Sports 2
@@ -822,12 +809,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports",NBA TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports",NBA TV HD
+
 
  
  
@@ -837,110 +819,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
  
  
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="SPORTS UPDATE",Golf Channel
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="SPORTS UPDATE",eGG Network
- 
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",ASTRO SUPER SPORT
-https://dd.ariev.workers.dev/id/123.m3u8|Referer="https://ntuplay.xyz/
- 
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",ASTRO SUPER SPORT 1
-
- 
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",ASTRO SUPER SPORT 2
-
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",ASTRO SUPER SPORT 3
-
- 
- 
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",ASTRO SUPER SPORT 4
-
- 
- 
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",ASTRO SUPER SPORT 5
-
- 
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=https://streamservicehd.click/
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2dFqUoXCqCY2s3eCCJCTDGff1n2niYJO-w&usqp=CAU" group-title="Sports",ARENA SPORT 1
-
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=https://streamservicehd.click/
-#KODIPROP:inputstream.adaptive.license_key=https://streamservicehd.click/
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2dFqUoXCqCY2s3eCCJCTDGff1n2niYJO-w&usqp=CAU" group-title="Sports",ARENA SPORT 2
-
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2dFqUoXCqCY2s3eCCJCTDGff1n2niYJO-w&usqp=CAU" group-title="Sports",ARENA SPORT 3
-
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=https://streamservicehd.click/
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="Sports",ARENA PREMIUM 1
-
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=https://streamservicehd.click/
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="Sports",ARENA PREMIUM 2
-
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=https://streamservicehd.click/
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" group-title="Sports",ARENA PREMIUM 3
-
- 
- 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",ASTRO CRICKET
- 
-
-
-
  
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -971,30 +849,12 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYzCpbqaKZQP4sNtiNApS3m3LpWN97kSuVYA&usqp=CAU" group-title="Sports",K+SPORTS 1
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
  
- 
- 
- 
- 
- 
 
- 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="Sports",Barça TV
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="Sports",FB TV
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="Sports",GS TV
- 
-#EXTINF:-1 tvg-logo="h/owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8ttps://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sports",LFC TV
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="Sports",MUTV
- 
-
- 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="Sports",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -1002,12 +862,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
  
  
  
- 
- 
- 
- 
- 
- 
+
  
  
 
