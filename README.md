@@ -18,7 +18,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="TAHAP 2",MOHON DI BANTU DENGAN DONASI
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="TAHAP 2",MOHON,, DI BANTU DENGAN DONASI
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -761,7 +761,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="Sports",beIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.licenses4.me
-/
+
  
  
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="Sports",beIN Sports Premium 1 HD
@@ -828,7 +828,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports",NBA TV HD
-https://webudit.salamus1.lol/lb/premium404/index.m3u8|referer=https://streamservicehd.click/
+
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -882,8 +882,7 @@ https://dd.ariev.workers.dev/id/123.m3u8|Referer="https://ntuplay.xyz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",ASTRO SUPER SPORT 4
-k/
- 
+
  
  
  
@@ -977,8 +976,7 @@ https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd|User-Agent="Mozilla/
  
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="Sports",Dunia Games
-2e-383fa7abe25c)/manifest.mpd
+
  
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="Sports",Barça TV
@@ -991,12 +989,13 @@ https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd|User-Agent="Mozilla/
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="Sports",MUTV
  
-#
+
  
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="Sports",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="Sports",Tennis Channel
