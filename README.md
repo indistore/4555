@@ -267,7 +267,7 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=cubmu&pw=ariev7xx
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1"group-title="HBO PREMIUM", CINEMAX HD 2
-https://delivery.ksa.my.id/stream/cinemax/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvaruba.com:8080/osec/c5176e377c82/197964
  
  
 
@@ -279,7 +279,7 @@ https://delivery.ksa.my.id/stream/cinemax/playlist.m3u8?token=ym1wtrp&v=20200807
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=cubmu&pw=ariev7xx
 #EXTINF:-1 group-title="HBO PREMIUM", tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",HBO HD 2
-https://delivery.ksa.my.id/stream/hbo/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvaruba.com:8080/osec/c5176e377c82/197972
 
  
  
@@ -301,7 +301,7 @@ https://delivery.ksa.my.id/stream/hbo/playlist.m3u8?token=ym1wtrp&v=20200807
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=cubmu&pw=ariev7xx
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO PREMIUM",HBO HITS HD 2
-https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvaruba.com:8080/osec/c5176e377c82/196480
 
 
 
@@ -316,7 +316,7 @@ https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=2020080
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=cubmu&pw=ariev7xx
 #EXTINF:-1 group-title="HBO PREMIUM", tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",HBO FAMILY 2
-https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvaruba.com:8080/osec/c5176e377c82/197055
  
  
  
@@ -330,7 +330,7 @@ https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=cubmu&pw=ariev7xx
 #EXTINF:-1 group-title="HBO PREMIUM", tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",HBO SIGNATURE HD 2
-https://delivery.ksa.my.id/stream/hbo_signature/playlist.m3u8?token=ym1wtrp&v=20200807
+http://iptvaruba.com:8080/osec/c5176e377c82/221948
  
  
 
