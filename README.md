@@ -8,7 +8,7 @@
  ================================================== PIALA DUNIA U 17 ===========================================================
  
  
- #EXTINF:-1 group-title="PIALA DUNIA U 17" group-logo="https://s.id/1LDhj" tvg-id="Indosiar" tvg-logo="https://www.dropbox.com/s/0r9ujenxiv1j0bz/20230607_204949.png?dl=1",INDOSIAR
+#EXTINF:-1 group-title="PIALA DUNIA U 17" group-logo="https://s.id/1LDhj" tvg-id="Indosiar" tvg-logo="https://www.dropbox.com/s/0r9ujenxiv1j0bz/20230607_204949.png?dl=1",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
