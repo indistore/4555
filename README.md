@@ -8,36 +8,7 @@
  ================================================== PIALA DUNIA U 17 ===========================================================
  
  
-#EXTINF:-1 group-title="PIALA DUNIA U 17" group-logo="https://s.id/1LDhj" tvg-id="Indosiar" tvg-logo="https://www.dropbox.com/s/0r9ujenxiv1j0bz/20230607_204949.png?dl=1",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
-http://cdrs.linknetott.aspirapps.net/channelgroup3/cg331production/ch8/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0414_221130_1115
-https://sub.home-tv.my.id/first/indosiar.m3u8
-https://KawaguchiMaeda230810.b-cdn.net/play/indosiar/index.m3u8
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
 
-
-EXTINF:-1 group-title="PIALA DUNIA U 17" tvg-id="SportsTV" tvg-name="SportsTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SCTV_logo_%28Vietnam%29.png/640px-SCTV_logo_%28Vietnam%29.png", SCTV 15 --S SPORT 2
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
-
-
-#EXTINF:-1 group-title="PIALA DUNIA U 17" group-logo="https://s.id/1LDhj1" tvg-id="SCTV.id" tvg-logo="https://www.dropbox.com/s/mtxxxfmbrk57q2c/20230607_140533.png?dl=1" tvg-name="SCTV", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-https://iptv.skuy.co.id:2083/local_sctv/mpegts?token=edH66lu6VfOhZ2
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-http://103.166.27.2:800/play/a015
-https://KawaguchiMaeda230810.b-cdn.net/play/esceteve/index.m3u8
-https://sv2.mixstreams.net/dens2/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
  
 ===================================LOKAL==========================================================
  
