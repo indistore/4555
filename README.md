@@ -32,7 +32,7 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO 09-11-23
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE KNOWLADGE 17-11-23
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
 
@@ -649,9 +649,6 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
  
  
  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",BLACK CINEMA
  
  
  
@@ -902,7 +899,65 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u
  
  
 -------------------------------------------------------------------INDISTORE MOVIE----------------------------------------------------------------------- 
- 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://wwFw.appcreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",BLACK
+https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",RED
+https://ucdn.beetv.kz/btv/live/hls/000000213.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",SCF-F
+https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",AMEDIA 1
+https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/playlist.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",AMEDIA 2
+https://ucdn.beetv.kz/btv/live/hls/000000351.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",BOLT
+http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",EBC FOREIGN MOVIES
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",DA VINCI
+http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png",UK: Sky Cinema Action
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30517&extension=ts&play_token=kprRrgrQxw
  
@@ -1803,6 +1858,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w525349813_b3
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World
 https://mangga-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -1989,10 +2046,28 @@ https://mangga-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldP
 https://mangga-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
  
  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/badventure.png" group-title="Entertainment",BIZNET ADVENTURE
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
  
- 
- 
- 
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/badventure.png" group-title="Entertainment",BIZNET LIFESTYLE
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/badvFenture.png" group-title="Entertainment",LIFESTYLE & FASHION
+https://mangga-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+
  ==================================================KNOWLADGE======================================================================
  
  
@@ -2012,8 +2087,12 @@ https://mangga-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="DiscoveryChannel.Id" tvg-logo="https://cdn.ksa.my.id/discoverychannel.png" group-title="Knowledge",Discovery
-https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd|referer=https://www.visionplus.id
+https://ctrl.laotv.la/live/Discovery/index.m3u8
  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="DiscoveryChannel.Id" tvg-logo="https://cdn.ksa.my.id/discoverychannel.png" group-title="Knowledge",Discovery SEA HD
+http://vthanhtivi.pw:5000/discovery/index.m3u8
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2024,7 +2103,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge",Animal Planet
-
+http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -2052,12 +2131,102 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
  
  
  
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png" group-title="Knowledge",EBS 1
+https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+ 
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png" group-title="Knowledge",EBS 2 
+https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
  
  
  
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Knowledge",ENGLISH CLASS 
+http://ott-cdn.ucom.am/s37/index.m3u8 
+ 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="Knowledge",ENGLISH CLUB 
+https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fR3abSD.png" group-title="Knowledge",GALAXY
+https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Knowledge",HD LIFE
+https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/playlist.m3u8
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo = "https://www.transvision.co.id/img/channel/lingua.png"group-title="Knowledge"LINGUA CHANNEL
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge",NASA TV MEDIA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge",NASA TV PUBLIC
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/NASA-logo-941179722R3-seeklogo.com.png" group-title="Knowledge",OUTDOOR CHANNEL
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/ND/NASA-logo-941179722R3-seeklogo.com.png" group-title="Knowledge",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+ 
+ 
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/ND/NASA-logo-941179722R3-seeklogo.com.png" group-title="Knowledge",SONY BBC EARTH
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -2331,13 +2500,3 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Music",XITE
  
-
-
-
-
-
-
-
-
-
-
