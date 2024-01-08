@@ -1,7 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",SEDANG BANYAK GANGGUAN
-https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -13,9 +10,8 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO 03/01/2024
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE  08/01/2024
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-
 
 
 
@@ -144,13 +140,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/2428da08-ce0.png" group-title="Lokal",Trans 7
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
  
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/2428da08-ce0.png" group-title="Lokal",Trans 7 HD Trans Media
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/2428da08-ce0.png" group-title="Lokal",Trans 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+ 
+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -193,7 +189,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Lokal",MOJI
-http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -882,7 +878,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Movies" tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png",PARAMOUNT HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
  
  
 
@@ -958,13 +954,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/05S8hs7W/first.jpg",ROCK ACTION
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+
  
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/05S8hs7W/first.jpg",ROCK ENTER
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
+
  
  
  
@@ -990,33 +986,32 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://wwFw.appcreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",BLACK
-https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",RED
-https://ucdn.beetv.kz/btv/live/hls/000000213.m3u8
+
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",SCF-F
-https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
+
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",AMEDIA 1
-https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/playlist.m3u8
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",AMEDIA 2
-https://ucdn.beetv.kz/btv/live/hls/000000351.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1037,7 +1032,6 @@ https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://www.appcFreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",DA VINCI
-http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
 
 
 
@@ -1045,18 +1039,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u
 
 
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png",UK: Sky Cinema Action
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30517&extension=ts&play_token=kprRrgrQxw
- 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d5825492e041478c8cad7c4303964212.png",UK: Sky Cinema 
 
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30510&extension=ts&play_token=gaCO3Bi2XP
- 
- 
- 
- #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png",UK: Sky Cinema Premiere
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30509&extension=ts&play_token=Z7G9GDac7a
+
  
  
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Alter
@@ -1067,8 +1051,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,A
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
  
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Dark Matter TV
-https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
-https://dcicealhbcymw.cloudfront.net/strm/link/darkmatter.m3u8
+
  
  
 
@@ -1076,7 +1059,7 @@ https://dcicealhbcymw.cloudfront.net/strm/link/darkmatter.m3u8
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
  
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Horror TV
-https://horror-tv-local-now.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8 
+
  
  
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Action
@@ -1088,7 +1071,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e
  
  
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Suspense
-https://i.mjh.nz/PlutoTV/5f15e281b0b8840007324b55-alt.m3u8 
+
  
 #EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Cult Films
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1104,8 +1087,7 @@ https://bloodydisgustingtv-localnow-cinedigm-com.akamaized.net/index.m3u8
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
  
  
-#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Watch It Scream
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Watchit%20Scream%21&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
+
  
  
 
@@ -1141,7 +1123,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31494_&extens
  
  
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN SERIES 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31495_&extension=ts
+
  
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU",BEIN OD MOVIE 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010765&extension=ts&play_token=9t1VGqgnHU
@@ -1157,79 +1139,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010762&extensio
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU",BEIN OD MOVIE 5
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671288&extension=ts&play_token=jCEvGAnDZw
- 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871515&extension=ts&play_token=2JcDJrWvCd
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871514&extension=ts&play_token=Xc6efCGP0w
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871513&extension=ts&play_token=KeZU2S6vel
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871512&extension=ts&play_token=KeZU2S6vel
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871511&extension=ts&play_token=KeZU2S6vel
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871510&extension=ts&play_token=X73EXyBx0G
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871509&extension=ts&play_token=TcDoi1QH3f
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871508&extension=ts&play_token=HiNVcUYcqJ
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871507&extension=ts&play_token=HiNVcUYcqJ
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871506&extension=ts&play_token=HiNVcUYcqJ
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871505&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 6
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871504&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 7
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871503&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 8
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871502&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 9
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871501&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 10
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871500&extension=ts&play_token=h8olu9Lhwu
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095797&extension=ts&play_token=mD1og1Ksr4
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095796&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095795&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095794&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 6
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 7
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095792&extension=ts&play_token=uuRqY0Eke1
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 8
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095791&extension=ts&play_token=uuRqY0Eke1
  
  
  
@@ -1250,37 +1159,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275539&extensio
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU",AMAZON 6
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275538&extension=ts&play_token=F5Xi40dhPi 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1364,17 +1242,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
  
  
  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="Sports",ABU DHABI SPORT 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="Sports",ABU DHABI SPORT 2 
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
- 
 
- 
- 
- 
- 
 
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="Sports",MOTOR RACING
@@ -1432,18 +1300,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
  
  
- 
 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1495,237 +1352,60 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8?|Referer=
  
  
  
+
  
  
  
- 
- 
-=============================================================USA SPORT===============================================
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="USA SPORTS", US.SP - TENNIS CHANNEL
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="Sports", US.SP - TENNIS CHANNEL
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/3791
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="USA SPORTS", US.SP - NBC GOLF CHANNEL
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="Sports", US.SP - NBC GOLF CHANNEL
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/17602
  
  
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-GAME-SHOW-NETWORK.png" group-title="USA SPORTS", US.SP - GAME SHOW NETWORK
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-GAME-SHOW-NETWORK.png" group-title="Sports", US.SP - GAME SHOW NETWORK
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/17419
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC.png" group-title="USA SPORTS", US.SP - NBC SN
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC.png" group-title="Sports", US.SP - NBC SN
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/53905
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-SPORTS.png" group-title="USA SPORTS", US.SP - NBC SPORTS
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-SPORTS.png" group-title="Sports", US.SP - NBC SPORTS
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1085950
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-SPORTS.png" group-title="USA SPORTS", US.SP - NBC SPORTS NETWORK
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-SPORTS.png" group-title="Sports", US.SP - NBC SPORTS NETWORK
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/53292
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CW-NETWORK.png" group-title="USA SPORTS", US.SP - CW NETWORK
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CW-NETWORK.png" group-title="Sports", US.SP - CW NETWORK
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1069953
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-YES-NETWORK.png" group-title="USA SPORTS", US.SP - YES NETWORK
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-YES-NETWORK.png" group-title="Sports", US.SP - YES NETWORK
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1089615
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-U.png" group-title="USA SPORTS", US.SP - ESPN U
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-U.png" group-title="Sports", US.SP - ESPN U
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/34602
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="USA SPORTS", US.SP - TBS east
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="Sports", US.SP - TBS east
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/17891
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ATyT-SPORTSNET.png" group-title="USA SPORTS", US.SP - AT&T SportsNet Pittsburgh
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1085951
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-UFC-FIGHT-PASS.png" group-title="USA SPORTS", US.SP - UFC FIGHT PASS
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/53373
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-UFC-TV.png" group-title="USA SPORTS", US.SP - UFC TV HD
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-UFC-TV.png" group-title="Sports", US.SP - UFC TV HD
 http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/53374
  
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-MSG.png" group-title="USA SPORTS", US SP - MSG HD
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1117138
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-MSG.png" group-title="USA SPORTS", US.SP - MSG 2 HD
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1117139
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-MSG+.png" group-title="USA SPORTS", US.SP - MSG+ HD
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1117140
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-BYN-SPORTS-USA.png" group-title="USA SPORTS", US.SP - BYN SPORTS USA
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/29341
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-FUBO-SPORTS-NETWORK.png" group-title="USA SPORTS", US.SP - FUBO SPORTS NETWORK
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/54579
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="USA SPORTS", US.SP - FOX SPORTS 1 HD
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/17418
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="USA SPORTS", US.SP - FOX SPORTS SUN
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1118207
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-SPORTS.png" group-title="USA SPORTS", US.SP - NBC SPORTS CALIFORNIA
-http://tv.fullytv.com:8080/rosarioalvarez/RA8308538/1158640
+
  
  
  
  
+
  
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",BOLA 10
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",DIGISORT 2
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",DIGISORT 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts 
  
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",NOVA SPORT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",SPORTS 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",BOLA 4
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47167 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",BOLA 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",BOLA 7
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=ts&play_token=V9YxR3GC9d 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",WORLD CUP
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107436&extension=ts&play_token=Aj5Ctlhy7i 
- 
- 
- #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",GP 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",NOVA SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",GP 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",GP 4
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",GP 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",F1 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508331&extension=ts&play_token=U71gOhaI4v
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",F1 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",F1 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",F1 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png",F1 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
- 
- 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT MAIN EVENT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83450&extension=ts&play_token=2Q6fP0aQzR
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT PREMIER LEAGUE
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=ts&play_token=V9YxR3GC9d
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT FOOTBALL
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83452&extension=ts&play_token=NZWhQ8KZOV
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT NEWS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83448&extension=ts&play_token=39xQduqNy6
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT ACTION
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83456&extension=ts&play_token=qiFg78s00D
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT ACTION IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692425&extension=ts&play_token=mfFAWKIb2Z
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT ARENA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83455&extension=ts&play_token=LeRid4FSfn
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT ARENA IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692435&extension=ts&play_token=s8alaxVAYe
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT CRICKET
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83454&extension=ts&play_token=ztJeMHyfna
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT F1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT F1 IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT MIX
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30495&extension=ts&play_token=LoXZTnEnq7
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT RACING
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83446&extension=ts&play_token=MqLZVaiCao
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT GOLF
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83451&extension=ts&play_token=Qm3z3S8n0h
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT GOLF IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692441&extension=ts&play_token=MvGc4Llgzz
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT NBA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692419&extension=ts&play_token=0U5QR5bFGs
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT MOTOGP
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT TENNIS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692431&extension=ts&play_token=zKyDwE3Cw4
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT 24
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692438&extension=ts&play_token=acstavTUsy
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="---------",SKY SPORT CALCIO
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692416&extension=ts&play_token=YhfOXWSG12 
- 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="______",FOX SOCCER PLUS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174668&extension=ts&play_token=aP5SGPY26C
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="______",FOX SPORT 1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extension=ts&play_token=eYcVCzh36m
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="______",FOX SPORT 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174670&extension=ts&play_token=IdEBSk7LYU
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="______",FOX SPORT ARIZONA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174671&extension=ts&play_token=JaPTMoccbH
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="______",FOX SPORT WEST
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174688&extension=ts&play_token=2101Kmd4c0
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="______",FOX SPORT SOUTH
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174684&extension=ts&play_token=Wipa3xAkxU
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="USA SPORTS" tvg-logo="______",FOX SPORT EAST
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174682&extension=ts&play_token=bj9EQummoH
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ======================================KIDS================================================
  
